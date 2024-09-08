@@ -1,6 +1,6 @@
 # Portfolio
 
-- Link: https://meetpatel0963.github.io
+- Link: [Meet Patel](https://meetpatel0963.github.io)
 
 # Sections
 
