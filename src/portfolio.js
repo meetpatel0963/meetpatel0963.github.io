@@ -26,6 +26,8 @@ const socialMediaLinks = {
   github: "https://github.com/meetpatel0963",
   linkedin: "https://www.linkedin.com/in/meet-patel-b1329a16b/",
   gmail: "meet.patel.01729@gmail.com",
+  googlescholar:
+    "https://scholar.google.com/citations?hl=en&authuser=3&user=Vc58ExIAAAAJ",
 };
 
 const skills = {

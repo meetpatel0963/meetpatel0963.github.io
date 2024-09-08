@@ -49,6 +49,17 @@ export default function socialMedia() {
           <span></span>
         </a>
       )}
+      {socialMediaLinks.googlescholar && (
+        <a
+          href={socialMediaLinks.googlescholar}
+          className="icon-button google-scholar"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fas fa-graduation-cap"></i>
+          <span></span>
+        </a>
+      )}
       {socialMediaLinks.twitter && (
         <a
           href={socialMediaLinks.twitter}
