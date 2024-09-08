@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a2c10be.chunk.css",
+    "main.js": "/static/js/main.2814380d.chunk.js",
+    "main.js.map": "/static/js/main.2814380d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de6673d8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de6673d8.js.map",
+    "static/js/2.850e4114.chunk.js": "/static/js/2.850e4114.chunk.js",
+    "static/js/2.850e4114.chunk.js.map": "/static/js/2.850e4114.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d29b0b19cccca23aad2e9b06bedf5bfc.js": "/precache-manifest.d29b0b19cccca23aad2e9b06bedf5bfc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6a2c10be.chunk.css.map": "/static/css/main.6a2c10be.chunk.css.map",
+    "static/js/2.850e4114.chunk.js.LICENSE.txt": "/static/js/2.850e4114.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/achievements.png": "/static/media/achievements.2195cc3d.png",
+    "static/media/codeadda.png": "/static/media/codeadda.a99ec8c2.png",
+    "static/media/community-service.png": "/static/media/community-service.51f79834.png",
+    "static/media/coursera.png": "/static/media/coursera.2d1b5b33.png",
+    "static/media/csi.png": "/static/media/csi.d3230733.png",
+    "static/media/deutschebank.jpg": "/static/media/deutschebank.7861391e.jpg",
+    "static/media/elsevier.png": "/static/media/elsevier.3dcf6519.png",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/google-cloud.png": "/static/media/google-cloud.7f8a980b.png",
+    "static/media/mathworks.png": "/static/media/mathworks.ae358599.png",
+    "static/media/meetpatel.png": "/static/media/meetpatel.e309f44a.png",
+    "static/media/nirma.png": "/static/media/nirma.451cc7cd.png",
+    "static/media/rcni.jpeg": "/static/media/rcni.f1b05ce0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de6673d8.js",
+    "static/js/2.850e4114.chunk.js",
+    "static/css/main.6a2c10be.chunk.css",
+    "static/js/main.2814380d.chunk.js"
+  ]
+}
