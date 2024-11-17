@@ -546,7 +546,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog regularly, but when I work on something interesting or useful, I try to share it so others can benefit. You can find my posts on LinkedIn.",
-    link: "https://www.linkedin.com/in/meet-patel-b1329a16b/",
+    link: "https://codolio.com/profile/_Meet_Patel_",
     avatar_image_path: "blogs_image.svg",
   },
 };
