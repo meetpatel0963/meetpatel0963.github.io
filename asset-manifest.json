@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8773ee87.chunk.css",
-    "main.js": "/static/js/main.8a3e40ea.chunk.js",
-    "main.js.map": "/static/js/main.8a3e40ea.chunk.js.map",
+    "main.css": "/static/css/main.79cf4d96.chunk.css",
+    "main.js": "/static/js/main.a6ecc6dc.chunk.js",
+    "main.js.map": "/static/js/main.a6ecc6dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de6673d8.js",
     "runtime-main.js.map": "/static/js/runtime-main.de6673d8.js.map",
-    "static/js/2.850e4114.chunk.js": "/static/js/2.850e4114.chunk.js",
-    "static/js/2.850e4114.chunk.js.map": "/static/js/2.850e4114.chunk.js.map",
+    "static/js/2.c58de993.chunk.js": "/static/js/2.c58de993.chunk.js",
+    "static/js/2.c58de993.chunk.js.map": "/static/js/2.c58de993.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d6f2aa03548a3a88616c0bbf0610ecfb.js": "/precache-manifest.d6f2aa03548a3a88616c0bbf0610ecfb.js",
+    "precache-manifest.58c64b921c2d0b03ad76fe34def3f80d.js": "/precache-manifest.58c64b921c2d0b03ad76fe34def3f80d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8773ee87.chunk.css.map": "/static/css/main.8773ee87.chunk.css.map",
-    "static/js/2.850e4114.chunk.js.LICENSE.txt": "/static/js/2.850e4114.chunk.js.LICENSE.txt",
+    "static/css/main.79cf4d96.chunk.css.map": "/static/css/main.79cf4d96.chunk.css.map",
+    "static/js/2.c58de993.chunk.js.LICENSE.txt": "/static/js/2.c58de993.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/achievements.png": "/static/media/achievements.2195cc3d.png",
     "static/media/codeadda.png": "/static/media/codeadda.a99ec8c2.png",
@@ -20,7 +20,7 @@
     "static/media/csi.png": "/static/media/csi.d3230733.png",
     "static/media/deutschebank.jpg": "/static/media/deutschebank.7861391e.jpg",
     "static/media/elsevier.png": "/static/media/elsevier.3dcf6519.png",
-    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/google-cloud.png": "/static/media/google-cloud.7f8a980b.png",
     "static/media/mathworks.png": "/static/media/mathworks.ae358599.png",
     "static/media/meetpatel.png": "/static/media/meetpatel.e309f44a.png",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.de6673d8.js",
-    "static/js/2.850e4114.chunk.js",
-    "static/css/main.8773ee87.chunk.css",
-    "static/js/main.8a3e40ea.chunk.js"
+    "static/js/2.c58de993.chunk.js",
+    "static/css/main.79cf4d96.chunk.css",
+    "static/js/main.a6ecc6dc.chunk.js"
   ]
 }
