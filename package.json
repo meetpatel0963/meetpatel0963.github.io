@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personal-portfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://meetpatel0963.github.io",
   "scripts": {
     "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
