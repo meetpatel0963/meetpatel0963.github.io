@@ -365,12 +365,25 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Senior Analyst",
+          title: "Software Development Engineer II",
+          company: "Amazon",
+          company_url: "https://www.amazon.com/",
+          logo_path: "amazon.jpg",
+          duration: "Feb 2025 - Current",
+          location: "Bengaluru, India",
+          description: [
+            "Intelligent Workflow Automation: Working on automating manual business workflows for vendor-facing products by integrating LLMs for intent detection, contextual retrieval, and workflow execution, aiming to reduce costs by 90% and improve operational efficiency by 5x.",
+            "Orchestration Platform Development: Building an orchestration platform to support synchronous, asynchronous, event-driven, and scheduled workflows with real-time monitoring and analytics, aiming to reduce workflow execution time by 95%.",
+          ],
+          color: "#0071C5",
+        },
+        {
+          title: "Software Development Engineer II",
           company: "Deutsche Bank",
           company_url:
             "https://www.db.com/index?language_id=1&kid=sl.redirect-en.shortcut",
           logo_path: "deutschebank.jpg",
-          duration: "July 2022 - Present",
+          duration: "July 2022 - Jan 2025",
           location: "Pune, India",
           description: [
             "ETL Pipeline Development: Designed and implemented ETL pipelines for automating transaction data reporting across 5 countries, handling JSON, CSV, AVRO, and Parquet formats, resulting in an annual cost saving of $5M USD.",
@@ -452,7 +465,7 @@ const experience = {
             "Facebook HackerCup 2021: Qualification Round (379/34,588), Round 1 (1,177/12,692), Round 2 (1,812).",
             "UberHacktag 2021: Top 154 out of 24,372 teams.",
             "Kaggle Challenge Plant Pathology 2021: Ranked 97/626 teams, Top 15%.",
-            "Competitive Programming Rankings: Achieved Expert rating on Codeforces (1702), 5⋆ rating on CodeChef (2146), and 6⋆ on HackerRank.",
+            "Competitive Programming Rankings: Achieved Expert rating on Codeforces (1702), 5⋆ rating on CodeChef (2146), 6⋆ on HackerRank, and Guardian on Leetcode (2191).",
           ],
           color: "#FBBD18",
         },
